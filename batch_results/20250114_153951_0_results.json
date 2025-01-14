@@ -1,0 +1,31 @@
+{
+  "job_id": "20250114_153951_0",
+  "created_at": "2025-01-14T15:39:51.939366",
+  "status": "processing",
+  "total_images": 1,
+  "results": {
+    "uploads\\batch\\a.png": {
+      "original_path": "uploads\\batch\\a.png",
+      "enhanced_path": "batch_results\\enhanced_a.png",
+      "metadata": {
+        "format": "PNG",
+        "mode": "RGBA",
+        "size": [
+          589,
+          631
+        ],
+        "width": 589,
+        "height": 631,
+        "created": "2025-01-14T15:39:51.938387",
+        "modified": "2025-01-14T15:39:51.939367"
+      },
+      "quality_info": {
+        "metrics": {
+          "brightness": 37.95345733589124,
+          "contrast": 84.24847764723603,
+          "blurriness": 1060.2403654963286,
+          "size_bytes": 39837,
+          "resolution": "589x631"
+        },
+        "quality_assessment": {
+          "is_bright_enough": 

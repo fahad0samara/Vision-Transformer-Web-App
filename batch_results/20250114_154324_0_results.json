@@ -1,0 +1,31 @@
+{
+  "job_id": "20250114_154324_0",
+  "created_at": "2025-01-14T15:43:24.869402",
+  "status": "processing",
+  "total_images": 1,
+  "results": {
+    "uploads\\batch\\napkin-selection.png": {
+      "original_path": "uploads\\batch\\napkin-selection.png",
+      "enhanced_path": "batch_results\\enhanced_napkin-selection.png",
+      "metadata": {
+        "format": "PNG",
+        "mode": "RGBA",
+        "size": [
+          592,
+          631
+        ],
+        "width": 592,
+        "height": 631,
+        "created": "2025-01-14T15:43:24.867489",
+        "modified": "2025-01-14T15:43:24.868401"
+      },
+      "quality_info": {
+        "metrics": {
+          "brightness": 56.894801794663124,
+          "contrast": 30.26112552857919,
+          "blurriness": 741.7717265601576,
+          "size_bytes": 39248,
+          "resolution": "592x631"
+        },
+        "quality_assessment": {
+          "is_bright_enough": 

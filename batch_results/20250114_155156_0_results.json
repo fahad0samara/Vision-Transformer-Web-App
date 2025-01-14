@@ -1,0 +1,13 @@
+{
+  "job_id": "20250114_155156_0",
+  "created_at": "2025-01-14T15:51:56.399609",
+  "status": "processing",
+  "total_images": 1,
+  "results": {
+    "uploads\\batch\\1728748554351.gif": {
+      "original_path": "uploads\\batch\\1728748554351.gif",
+      "error": "Error enhancing image: Could not read image",
+      "success": false
+    }
+  }
+}
